@@ -1,3 +1,5 @@
+import './POPOSSpace.css';
+
 function POPOSSpace(props) {
   const { name, image, address } = props
   return (

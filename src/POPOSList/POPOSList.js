@@ -1,3 +1,4 @@
+import './POPOSList.css';
 import POPOSSpace from '../POPOSSpace';
 
 function POPOSList() {
