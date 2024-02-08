@@ -1,4 +1,3 @@
-import React from 'react'
 import './Title.css';
 
 function Title() {
@@ -10,4 +9,4 @@ function Title() {
   )
 }
 
-export default Title
+export default Title;
