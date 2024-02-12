@@ -1,5 +1,5 @@
 import { useParams } from 'react-router'
-import data from '../sfpopos-data.json'
+import data from '../../sfpopos-data.json'
 
 function POPOSDetails(props) {
   const params = useParams()
