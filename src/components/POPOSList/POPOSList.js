@@ -22,6 +22,7 @@ function POPOSList() {
         name={title}
         address={address}
         hours={hours}
+        features={features}
       />
     )
   });
