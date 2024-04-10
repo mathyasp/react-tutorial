@@ -7,13 +7,13 @@ function POPOSSpace( { image, name, address, hours, id } ) {
       <Link to={`/details/${id}`}>
         <img
           src={`${process.env.PUBLIC_URL}/images/${image}`}
-          width="300"
-          height="300"
-          alt="Hello"
+          width='300'
+          height='300'
+          alt='Hello'
         />
       </Link>
       <h1>
-        <Link className="POPOSSpace-title" to={`/details/${id}`}>
+        <Link className='POPOSSpace-title' to={`/details/${id}`}>
           {name}
         </Link>
       </h1>

@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+@media screen and (max-width: 480px) {
+  /* These styles are applied when 
+  the screen size 480 or smaller */
+  .POPOSList-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  /* add other styles here... */
+}

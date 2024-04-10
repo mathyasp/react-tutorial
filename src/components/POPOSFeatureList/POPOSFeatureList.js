@@ -5,7 +5,7 @@ function POPOSFeatureList(props) {
 	const icons = props.features.map((feature) => {
     return <POPOSFeature key={feature} name={feature} />
   })
-	return <div className="POPOSFeatureList">{icons}</div>
+	return <div className='POPOSFeatureList'>{icons}</div>
 }
 
 export default POPOSFeatureList

@@ -1,3 +1,3 @@
-import POPOSFeatureList from "./POPOSFeatureList";
+import POPOSFeatureList from './POPOSFeatureList';
 
 export default POPOSFeatureList;
