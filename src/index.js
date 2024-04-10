@@ -6,6 +6,7 @@ import App from './components/App/App';
 import About from './components/About/About';
 import POPOSList from './components/POPOSList/POPOSList';
 import POPOSDetails from './components/POPOSDetails';
+import Newsletter from './components/Newsletter/Newsletter';
 
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
@@ -17,6 +18,7 @@ root.render(
         <Route path="/" element={<POPOSList />} />
         <Route path="about" element={<About />} />
         <Route path="/details/:id" element={<POPOSDetails />} />
+        <Route path="/newsletter" element={<Newsletter />} />
       </Route>
     </Routes>
   </Router>,
