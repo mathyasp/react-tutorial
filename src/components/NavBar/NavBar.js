@@ -16,7 +16,7 @@ function NavBar() {
   const toggle = () => setIsOpen(!isOpen);
 
   return (
-    <Navbar color="light" light expand="md">
+    <Navbar light expand="md">
       <NavbarToggler onClick={toggle} />
       <div className="navbar-left">
         <Collapse isOpen={isOpen} navbar>

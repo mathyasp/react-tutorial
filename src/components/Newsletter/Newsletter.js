@@ -7,7 +7,7 @@ function Newsletter() {
       <h1>Sign Up for Our Newsletter</h1>
       <p className='light'>Fill out your information below to <br />be signed up for our newsletter</p>
       
-      <div className='input-group'>
+      <div className='news-input-group'>
         <label for='input-username'>Username</label>
         <input id='input-username' type='text' placeholder='Username' className='wide-input' />
 
