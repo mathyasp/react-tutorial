@@ -43,3 +43,13 @@
   color: #fff;
   border-bottom: 2px solid;
 }
+
+@media screen and (max-width: 480px) {
+  .NavBar {
+    flex-direction: column;
+  }
+  .NavLink, .Search {
+    flex: auto;
+    text-align: center;
+  }
+}

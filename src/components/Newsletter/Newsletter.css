@@ -39,3 +39,9 @@ label {
 .light {
   font-weight: 400;
 }
+
+@media screen and (max-width: 480px) {
+  .input-group {
+    width: 80%;
+  }
+}
