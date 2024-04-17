@@ -15,11 +15,13 @@
 }
 
 .navbar-right input {
+  width: 70%;
   border: 1px solid #ccc;
   border-radius: 4px;
   text-align: center;
   font-size: 1em;
   margin-bottom: 0;
+  margin-left: auto;
 }
 
 .navbar-nav {
@@ -36,6 +38,24 @@
 }
 
 @media screen and (max-width: 480px) {
+  .navbar-center, .navbar-right, .navbar-left {
+    position: static;
+    transform: none;
+    width: 100%;
+    text-align: center;
+  }
+  .navbar-right {
+    order: 2;
+  }
+  .navbar-left {
+    order: 0;
+  }
+  .navbar-center {
+    order: 1;
+  }
+  .navar-right input {
+    width: 100%;
+  }
   .navbar-nav li {
     padding: 0.5rem 1rem;
   }
