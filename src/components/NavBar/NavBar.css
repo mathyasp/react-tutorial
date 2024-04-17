@@ -1,0 +1,32 @@
+.navbar-left {
+  flex-grow: 1;
+}
+
+.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.navbar-right input {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 1em;
+  margin-bottom: 0;
+}
+
+.navbar-nav {
+  margin-right: auto;
+}
+
+.nav-item {
+  margin-left: 1rem;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 480px) {
+  .navbar-nav li {
+    padding: 0.5rem 1rem;
+  }
+}

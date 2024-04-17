@@ -9,13 +9,14 @@
         "lon":-122.4027927
      },
      "images":[
-        "transamerica-redwood-park.jpg"
+        "transamerica-redwood-park.webp"
      ],
      "website":"https://pyramidcenter.com/point-of-interest/redwood-park/",
      "features":[
         "outdoors",
         "coffee"
-     ]
+     ],
+     "alt":"Fountain spraying water with surrounding tall trees and residential buildings in a serene city courtyard."
   },
   {
      "title":"Empire Park",
@@ -27,13 +28,14 @@
         "lon":-122.4037971
      },
      "images":[
-        "empire-park.jpg"
+        "empire-park.webp"
      ],
      "website":"https://www.artandarchitecture-sf.com/empire-park.html",
      "features":[
         "outdoors",
         "art"
-     ]
+     ],
+     "alt":"Pergola with geometric shadows over a pathway leading to a statue, with people seated on benches in a serene park setting."
   },
   {
      "title":"50 California Street",
@@ -45,12 +47,13 @@
         "lon":-122.3973817
      },
      "images":[
-        "50-california-st.jpg"
+        "50-california-st.webp"
      ],
      "features":[
         "outdoors",
         "toilet"
-     ]
+     ],
+     "alt":"An urban plaza with trees, shrubs, and flowers surrounded by concrete planters, with pedestrians walking and city buildings in the background."
   },
   {
      "title":"Embarcadero Center Walkways",
@@ -62,13 +65,14 @@
         "lon":-122.4002143
      },
      "images":[
-        "embarcadero-center.jpg"
+        "embarcadero-center.webp"
      ],
      "features":[
         "outdoors",
         "toilet",
         "coffee"
-     ]
+     ],
+     "alt":"A walkway with trees and potted plants leading to a staircase with a metal dinosaur skeleton sculpture at the base."
   },
   {
      "title":"343 Sansome Roof Garden",
@@ -80,13 +84,14 @@
         "lon":-122.4014547
      },
      "images":[
-        "343-sansome-roof-garden.jpg"
+        "343-sansome-roof-garden.webp"
      ],
      "opens":"10am",
      "closes":"5pm",
      "features":[
         "outdoors"
-     ]
+     ],
+     "alt":"A colorful mosaic sculpture in the shape of a pencil stands on a patterned plaza with people sitting on benches, surrounded by tall buildings and greenery under a clear blue sky."
   },
   {
      "title":"Garden Terrace at 150 California",
@@ -98,13 +103,14 @@
         "lon":-122.3964805
      },
      "images":[
-        "garden-terrace-at-150-california.jpg"
+        "garden-terrace-at-150-california.webp"
      ],
      "features":[
         "outdoors",
         "art",
         "coffee"
-     ]
+     ],
+     "alt":"People sitting at outdoor tables under a metal arch structure in an urban plaza surrounded by tall skyscrapers. Bright pink flowers in the foreground."
   },
   {
      "title":"101 California",
@@ -116,13 +122,14 @@
         "lon":-122.398342
      },
      "images":[
-        "101-california.jpg"
+        "101-california.webp"
      ],
      "features":[
         "outdoors",
         "art",
         "coffee"
-     ]
+     ],
+     "alt":"People sitting on steps outside a building, surrounded by potted plants with flowers."
   },
   {
      "title":"100 Pine",
@@ -134,11 +141,12 @@
         "lon":-122.398758
      },
      "images":[
-        "100-pine.jpg"
+        "100-pine.webp"
      ],
      "features":[
         "outdoors"
-     ]
+     ],
+     "alt":"A clear glass-walled pool with rocks and water visible beneath the surface, surrounded by buildings in an urban setting."
   },
   {
      "title":"525 Market Street Plaza",
@@ -150,12 +158,13 @@
         "lon":-122.3991585
      },
      "images":[
-        "525-market-street-plaza.jpg"
+        "525-market-street-plaza.webp"
      ],
      "features":[
         "outdoors",
         "coffee"
-     ]
+     ],
+     "alt":"An indoor atrium with tall palm trees, people sitting at tables, a fountain in the foreground and a sculpture in the background."
   },
   {
      "title":"Citigroup Center",
@@ -167,14 +176,15 @@
         "lon":-122.4007974
      },
      "images":[
-        "citigroup-center.jpg"
+        "citigroup-center.webp"
      ],
      "features":[
         "outdoors",
         "power",
         "toilet",
         "coffee"
-     ]
+     ],
+     "alt":"An urban courtyard with a concrete water fountain, surrounded by office buildings, with two people sitting at a table having a conversation. There are also metallic stools and two pigeons walking on the ground."
   },
   {
     "title":"555 California",
@@ -186,10 +196,11 @@
        "lon":-122.403790
     },
     "images":[
-       "555-california.jpg"
+       "555-california.webp"
     ],
     "features":[
        "outdoors"
-    ]
+    ],
+    "alt":"An outdoor seating area with wooden benches and planters surrounded by lush greenery and tall city buildings in the background."
  }
 ]

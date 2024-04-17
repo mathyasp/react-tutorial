@@ -5,3 +5,9 @@
 	border-radius: 0.25em;
 	background-color: #eee;
 }
+
+@media screen and (max-width: 480px) {
+	.POPOSFeature {
+		font-size: 1.5em;
+	}
+}

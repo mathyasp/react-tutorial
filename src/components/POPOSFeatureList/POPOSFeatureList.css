@@ -1,3 +1,10 @@
 .POPOSFeatureList {
 	display: flex;
 }
+
+@media screen and (max-width: 480px) {
+	.POPOSFeatureList {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+}
